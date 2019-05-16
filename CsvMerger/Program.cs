@@ -6,6 +6,7 @@ using System.Text;
 using CsvHelper;
 
 // test comment
+// test comment 2
 namespace CsvMerger
 {
     class Program
